@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR lightsalmon]FILMES[/COLOR]</name>
+<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon]FILMES[/COLOR][COLOR chartreuse]****[/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/FILMES</externallink>
 <fanart>https://ia601502.us.archive.org/23/items/filmes_20190926/FUNDO%20FILMES.jpg</fanart>
 <info>
 
 
-[COLOR lawngreen]****[/COLOR]- TOP FILMES -[COLOR lawngreen]****[/COLOR]</info>
+[COLOR chartreuse]**[/COLOR] TOP FILMES [COLOR chartreuse]**[/COLOR]</info>
 </channel>
 </channels>
 
