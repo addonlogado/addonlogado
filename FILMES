@@ -1,20 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon] LANÇAMENTOS [/COLOR][COLOR chartreuse]****[/COLOR]</name>
-<thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/FILMES%20LANCAMENTOS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/LANCAMENTOS</externallink>
-<fanart>https://ia801502.us.archive.org/23/items/filmes_20190926/FUNDO%20FILMES.jpg</fanart>
-<info>
-
-
-[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] LANÇAMENTOS 2019 [/COLOR][COLOR chartreuse]**[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon] (CAM)-(TS) [/COLOR][COLOR chartreuse]****[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/29/items/filmescam/FILMES%20CAM.png</thumbnail>
 <externallink>https://</externallink>
@@ -22,11 +7,28 @@
 <info>
 
 
-[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] RIP [/COLOR][COLOR chartreuse]**[/COLOR]</info>
+[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] QUALIDADE (RIP) - LANÇAMENTOS 2019 [/COLOR][COLOR chartreuse]**[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon] LANÇAMENTOS [/COLOR][COLOR chartreuse]****[/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/FILMES%20LANCAMENTOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/LANCAMENTOS</externallink>
+<fanart>https://ia801502.us.archive.org/23/items/filmes_20190926/FUNDO%20FILMES.jpg</fanart>
+<info>
+
+
+[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] QUALIDADE (FULL) - LANÇAMENTOS 2019 [/COLOR][COLOR chartreuse]**[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
