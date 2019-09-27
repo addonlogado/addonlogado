@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon]FILMES[/COLOR][COLOR chartreuse]****[/COLOR]</name>
+<name>[COLOR chartreuse]****[/COLOR] [COLOR lightsalmon]FILMES[/COLOR] [COLOR chartreuse]****[/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/FILMES</externallink>
 <fanart>https://ia601502.us.archive.org/23/items/filmes_20190926/FUNDO%20FILMES.jpg</fanart>
 <info>
 
 
-[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon] TOP FILMES [/COLOR] [COLOR chartreuse]**[/COLOR]</info>
+[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon]TOP FILMES[/COLOR] [COLOR chartreuse]**[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon]SÉRIES[/COLOR][COLOR chartreuse]****[/COLOR]</name>
+<name>[COLOR chartreuse]****[/COLOR] [COLOR lightsalmon]SÉRIES[/COLOR] [COLOR chartreuse]****[/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia601502.us.archive.org/23/items/filmes_20190926/FUNDO%20SERIES.jpg</fanart>
 <info>
 
 
-[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon] TOP SÉRIES [/COLOR] [COLOR chartreuse]**[/COLOR]</info>
+[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon]TOP SÉRIES[/COLOR] [COLOR chartreuse]**[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>[COLOR chartreuse]****[/COLOR][COLOR lightsalmon]KIDS[/COLOR][COLOR chartreuse]****[/COLOR]</name>
+<name>[COLOR chartreuse]****[/COLOR] [COLOR lightsalmon]KIDS[/COLOR] [COLOR chartreuse]****[/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/23/items/filmes_20190926/KIDS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801502.us.archive.org/23/items/filmes_20190926/FUNDO%20KIDS.jpg</fanart>
 <info>
 
 
-[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon] TOP PARA CRIANÇAS [/COLOR] [COLOR chartreuse]**[/COLOR]</info>
+[COLOR chartreuse]**[/COLOR] [COLOR lightsalmon]TOP INFANTIL[/COLOR] [COLOR chartreuse]**[/COLOR]</info>
 </channel>
 </channels>
 
