@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR chartreuse]*[/COLOR][COLOR lightsalmon] BETTER CALL SAUL [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/BETTERCALLSAUL</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg</fanart>
+<info>
+
+
+[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] SÉRIES [/COLOR][COLOR chartreuse]**[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR chartreuse]*[/COLOR][COLOR lightsalmon] CHERNOBYL [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/CHERNOBYL</externallink>
@@ -13,17 +28,4 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR chartreuse]*[/COLOR][COLOR lightsalmon] BETTER CALL SAUL [/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonlogado/addonlogado/master/BETTERCALLSAUL</externallink>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg</fanart>
-<info>
 
-
-[COLOR chartreuse]**[/COLOR][COLOR lightsalmon] SÉRIES [/COLOR][COLOR chartreuse]**[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
